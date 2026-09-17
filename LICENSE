@@ -1,3 +1,10 @@
+SCOPE NOTICE: This GPL-3.0 license applies ONLY to the original application
+code written by the authors of this project (Appli/Core/Src/fd_*.c,
+Appli/Core/Inc/fd_*.h, Appli/Core/Src/main.c, Appli/Core/Inc/main.h).
+It does NOT apply to any third-party components (STMicroelectronics SLA0044/
+SLA0104 code, Microsoft Azure RTOS / ThreadX, Ultralytics YOLOv8 model).
+See NOTICE.md for the per-component license breakdown.
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
